@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "73061364118",
+    "firebase_url": "https://ldrquotes-d9ab3.firebaseio.com",
+    "project_id": "ldrquotes-d9ab3",
+    "storage_bucket": "ldrquotes-d9ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73061364118:android:fec08dde68fed06a",
+        "android_client_info": {
+          "package_name": "app.com.subtle_media.ldrquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73061364118-64t7ab59ukgdafugqmmakusctfkdpte1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.subtle_media.ldrquotes",
+            "certificate_hash": "cd7742399db822eca32e2f7ab42a433cde803dea"
+          }
+        },
+        {
+          "client_id": "73061364118-3r9jqbs5u3dap65hsfff2p3365c50ltj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-gG08IRkkpVyHVKBwKU_c80iRlH-WKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73061364118-3r9jqbs5u3dap65hsfff2p3365c50ltj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

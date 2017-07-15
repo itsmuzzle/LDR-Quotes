@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LDR Quotes</string>
+    <string name="no_created_quotes">You have not created any quotes :(</string>
+    <string name="interstitial_add_unit_id">ca-app-pub-4477832346960282/9997993658</string>
+    <string name="my_quotes_activity_add_button_text">Add</string>
+    <string name="quote_saved_to_devices_gallery">Image saved to your gallery!</string>
+    <string name="create_quote_saved_successfully">Quote created successfully!</string>
+    <string name="my_quotes_quote_deleted">Quote deleted…</string>
+    <string name="need_to_add_quotes_before_deleting">You need to add quotes before you can delete them!</string>
+    <string name="need_to_add_quotes_before_sharing">You need to add quotes before you can share them!</string>
+    <string name="create_quote_minimum_chars_error">Quote must be at least 5 chars...</string>
+</resources>

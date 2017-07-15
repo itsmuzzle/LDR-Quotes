@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/quote_background_1"
+    android:clipToPadding="false"
+    tools:context="app.com.subtle_media.ldrquotes.AllQuotesActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/all_quotes_copyright"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:text="LDRQuotes.com"
+            android:textAlignment="center"
+            android:textColor="@android:color/darker_gray"
+            />
+
+        <TextView
+            android:id="@+id/my_quotes_quoteText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:maxHeight="450dp"
+            android:minHeight="420dp"
+            android:padding="40dp"
+            android:shadowColor="#000000"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="2.0"
+            android:text="TextView"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:id="@+id/all_quotes_bottom_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:clipToPadding="false"
+            android:orientation="horizontal"
+            android:visibility="visible"
+            android:weightSum="4">
+
+            <Button
+                android:id="@+id/all_quotes_home_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:drawablePadding="5dp"
+                android:drawableTop="@mipmap/ic_home_white_24dp"
+                android:padding="10dp"
+                android:text="Home"
+                android:textColor="@android:color/white"/>
+
+            <Button
+                android:id="@+id/all_quotes_share_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:drawablePadding="5dp"
+                android:drawableTop="@mipmap/ic_share_white_24dp"
+                android:padding="10dp"
+                android:text="Share"
+                android:textColor="@android:color/white"/>
+
+            <Button
+                android:id="@+id/all_quotes_back_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:drawablePadding="5dp"
+                android:drawableTop="@mipmap/ic_arrow_back_white_24dp"
+                android:padding="10dp"
+                android:text="Back"
+                android:textColor="@android:color/white"/>
+
+            <Button
+                android:id="@+id/all_quotes_next_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:drawablePadding="5dp"
+                android:drawableTop="@mipmap/ic_arrow_forward_white_24dp"
+                android:padding="10dp"
+                android:text="Next"
+                android:textColor="@android:color/white"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <!--<com.google.android.gms.ads.AdView-->
+    <!--android:id="@+id/adView"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--ads:adSize="BANNER"-->
+    <!--ads:adUnitId="ca-app-pub-3940256099942544/6300978111">-->
+    <!--</com.google.android.gms.ads.AdView>-->
+
+</LinearLayout>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\af7fe29255d5075b732fec45bbfb3736930c3642\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_d9ef02ba4c6003a40d57016e6516e2669c64a932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\710ae2ff5d5bd0965ab242f79358420655addbc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_c625e232846b258465832f50c39f44d988fb185c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\ce1d0113a7c0035fc2678e124bb8178163fca92b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_519328eb9111895663184eae1a769c5cc8306f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\53e7f992a65ef09c8e0a2333894035ca4e625c51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_6e5466330e552f29e9f8ca0db97f3ec0a409012d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\feae52d0dc0f19b8522b9bb3ce144be3142f5402\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_7fa5cc2efbba1e31575cd3f0d6e9a26089b01219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\d6a9d0bfb40a14baccad69bf141446fe223b8279\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_082eb6ca49dba05ca6307e1dd89a99d653d4baf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\daec168a6313eff0b5915a9bcb4c29e6b1397e1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_bca5cfabbbd6c6856d74aadf7aa41038427caf23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\48c279f85ba2b4319c7ad285c33ae6510a6dda67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_3b4e679cd227714dbe605c675c80852ad32e3495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\8e57636b4f3569ba6f1e262ced9ec02a3bd3673a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_66eb03b455e3153cac0e292de859c62609f927c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\cc2f738b672b4da645bab5ecc9b966668ba1ce22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_a326e0ce396afc3f6f144cf00fe64277d211bda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\c5a6d5eddd9e7059b2b2294c92cb5b639736aa51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_f3862b01e2c48790d48a8c2ac2b9fc6f2cf209d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\sqliteassethelper-2.0.1_a3df9e4c5e2361b0253ad099c9f9f47b17db3ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\79a9e843832afc72fded612b01e2c11189c155e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_62882aff7cdb077836b09a1c74b8b0f3c1d11ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_3e3daa917c6e639de30c0e4162f5d180b4160547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\9b3d1dc293c8ea66514b1b14599f99af5e98d53f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_205f6e6aa52ebe86ae595041e5c0c397da1c9c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_59887838f09b25e601d41fb404071f67468a8e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\172d2fa8c25928cd243e2d4d76672ce276c45c29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_22f4e06ee062b01176036cd3a2155b0db9428c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\b5114afe261f7b78bd00e5431fc2a5e3241d8cef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_ee83f72bd7449548a0ef9e7ccb68c4ce6863045d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\b739fbc41b6255d7bdc654d80b47ca933b1fb029\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_f2e48320caf0e1bdb23f1847f318b5cfac5eb095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\d0a377049f8c3676790ceb1da4a10fa2d59f6e9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_b3aca737596a52494b654a4aa4f36a5ff7552cea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4740fed5bb792345c07e938f5c2a43caab421c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\525aba7dc83fa5d1e4e5a70a5d638eca38fa3e30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_5b480fd4051319ba900eb41f8dac6f811e0ba9df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\50a65287b6413c0f839c679462666d689a7907e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_50b7914feb258ecbf30c223a24ab9a0ccc374ec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\18713fa93783d53a3f6488a65bd16e9964ee31c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_b6be242ed8b213676d1177b260636ae9edb857ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8674b7a263889f7c02e4d5a19973d05923696ccd">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8420177b5e4cbc565584ea65cb6f25a996c3abf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\95ca719ef971563d94c469f531b2ae889630f917\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_c36caf4cef2077a866af7e142959318e664064b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\62b5d157eb4307343fc55fb00470432c76516e9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_3c48621fcbd4be71940e93dba81ecf3c0fb78209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lewis\.android\build-cache\87c652a8bb44f8c1f04adaa74b580bf3605269ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\lewis\Apps\LDRQuotes\app\build\intermediates\pre-dexed\release\classes_9217bd4dc748df18223fb7eb92a7d0990e03b1c5.jar" />
+    </item>
+
+</items>
