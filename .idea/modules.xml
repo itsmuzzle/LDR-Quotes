@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LDRQuotes.iml" filepath="$PROJECT_DIR$/LDRQuotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDR-Quotes - old.iml" filepath="$PROJECT_DIR$/LDR-Quotes - old.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
